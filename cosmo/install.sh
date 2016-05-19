@@ -4,7 +4,7 @@ export LD_LIBRARY_PATH=${CRAY_LD_LIBRARY_PATH}:${LD_LIBRARY_PATH}
 export TARGET_HOST=kesch
 
 # COSMO Version
-export COSMO_VERSION=5.0_2016.5
+export COSMO_VERSION=5.0_2016.6
 # COSMO Repository
 export COSMO_REPOSITORY="git@github.com:MeteoSwiss-APN/cosmo-pompa.git"
 # STELLA Repository
